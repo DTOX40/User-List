@@ -1,24 +1,29 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+User list system.
 
-* Ruby version
+## Technologies Used
 
-* System dependencies
+- Ruby on Rails 7
+- ruby "3.2.0"
+- gem 'bootstrap-generators', '~> 3.3.4'
+- gem 'record_tag_helper', '~> 1.0'
+- gem 'will_paginate'
+- gem 'kaminari'
+- gem 'sprockets', '~> 3.7.2'
+- gem 'rails-controller-testing's
+- gem 'rspec-rails', '~> 6.0.0'
 
-* Configuration
+## Autores
 
-* Database creation
+- [Nome do Autor](https://github.com/DTOX40)
 
-* Database initialization
+## Project Status
 
-* How to run the test suite
+This project is under active development and is currently at version 1.0.1.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Examples and Screenshots
 
-* Deployment instructions
-
-* ...
+![Exemplo 1](docs/interface.png)
+![Exemplo 2](docs/json.png)
